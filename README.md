@@ -4,18 +4,6 @@
 
 An intelligent search agent built with LangChain that combines multiple search tools and large language models to provide comprehensive answers to user queries by searching across various platforms including DuckDuckGo, Wikipedia, YouTube, Google Web Search, Google News, and Google Scholar.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Available Tools](#available-tools)
-- [LLM Models](#llm-models)
-- [Examples](#examples)
 
 ## 🎯 Overview
 
