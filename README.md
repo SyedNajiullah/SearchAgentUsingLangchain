@@ -1,5 +1,7 @@
 # AI Search Agent with LangChain 🤖🔍
 
+![Agent Workflow](SearchAgentUsingLangchain.png)
+
 An intelligent search agent built with LangChain that combines multiple search tools and large language models to provide comprehensive answers to user queries by searching across various platforms including DuckDuckGo, Wikipedia, YouTube, Google Web Search, Google News, and Google Scholar.
 
 ## 📋 Table of Contents
