@@ -316,7 +316,12 @@ response = agent.run("Latest research papers on transformer models")
 response = agent.run("Best videos to understand LangChain")
 ```
 
-### Example 4: Multi-Source Query
+### Example 4: Wikipedia search
+```python
+response = agent.run("Who is Geoffrey Hinton? Tell me about his personal and political life, and tell me about his career, research, and education.")
+```
+
+### Example 5: Multi-Source Query
 ```python
 response = agent.run("Top news in AI using DuckDuckGo and Wikipedia")
 ```
