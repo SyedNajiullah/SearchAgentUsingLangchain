@@ -206,7 +206,9 @@ langchain-search-agent/
 │
 ├── SearchAIusingLLAMAVersion2.ipynb    # Llama 3.3 70B implementation
 ├── SearchAIusingQWENVersion1.ipynb     # Qwen 3 32B implementation
+├── SearchAgentUsingLangchain.png  # worflow image
 ├── README.md                           # This file
+
 ```
 
 ## 🛠️ Available Tools
